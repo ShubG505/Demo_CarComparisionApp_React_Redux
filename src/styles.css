@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background: white;
+  color: #393c45; 
+}
+
+.note-span{  
+  font-weight: bold;
+  font-size: 20px;
+}
+
+#msgSpan{
+  padding-top: 10px;
+}
+.alert{
+  color: red;
+  font-size: 16px;
+  position: absolute;
+  right: 0;
+}
+
+#spanDiv{
+  margin-left:4px;;
+  position: relative;
+}
